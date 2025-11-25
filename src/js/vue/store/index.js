@@ -37,7 +37,7 @@ const state = {
     token: window.localStorage.getItem(TOKEN_STORAGE_KEY) || null,
     expires: window.localStorage.getItem(EXPIRES_STORAGE_KEY) || null,
     error: null,
-    title: 'Worksuite',
+    title: 'Skalelit',
     // Listen to changes to this variable in components and refresh data when it changes.
     // This is used to send signal when session token has been refreshed
     reload: 0,

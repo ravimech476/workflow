@@ -17,7 +17,7 @@
                         label="Domain URL"
                         type="url"
                         error-message="Please enter valid domain url"
-                        placeholder="https://your-url.domain.com"
+                        placeholder="https://crm.skalelit.com"
                         :value="domain"
                         required
                         clear-button
