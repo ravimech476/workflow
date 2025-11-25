@@ -58,7 +58,7 @@ export default {
     mixins: [CommonMixin],
     data() {
         return {
-            domain: null,
+            domain: 'https://crm.skalelit.com',
             error: null,
             push: null,
             showAddToHomeScreen: false,
