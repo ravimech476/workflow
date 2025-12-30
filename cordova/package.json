@@ -13,9 +13,8 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
-    "cordova-android": "^12.0.1",
+    "cordova-android": "^13.0.0",
     "cordova-ios": "^7.1.0",
-    "cordova-plugin-camera": "^7.0.0",
     "cordova-plugin-device": "^3.0.0",
     "cordova-plugin-enable-cleartext-traffic": "^2.1.0",
     "cordova-plugin-firebase-messaging": "^8.0.1",
@@ -30,7 +29,6 @@
     "plugins": {
       "cordova-plugin-statusbar": {},
       "cordova-plugin-keyboard": {},
-      "cordova-plugin-camera": {},
       "cordova-plugin-device": {},
       "cordova-plugin-appversion": {},
       "cordova-plugin-whitelist": {},
@@ -43,8 +41,8 @@
       }
     },
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ]
   },
   "dependencies": {

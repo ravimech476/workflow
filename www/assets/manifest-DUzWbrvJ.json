@@ -1,7 +1,7 @@
 {
-  "name": "Worksuite Mobile App",
-  "short_name": "Worksuite Mobile App",
-  "description": "Worksuite Mobile App",
+  "name": "Skalelit Mobile App",
+  "short_name": "Skalelit Mobile App",
+  "description": "Skalelit Mobile App",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
